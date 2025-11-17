@@ -1,0 +1,7 @@
+so_1 = int(input(" mời nhập số cân nặng: "))
+so_2 = int(input(" mời nhập số chiều cao: "))
+BMI = so_1 / (so_2 * so_2 )
+print("kết quả tính toán:")
+print("số cân nặng đã nhập:", so_1)
+print("số chiều cao đã nhập:", so_2)
+print("kết quả chỉ số BMI:" , BMI)           
