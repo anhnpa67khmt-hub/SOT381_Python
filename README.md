@@ -6,3 +6,5 @@
 
 [bai lam them so 3](https://github.com/anhnpa67khmt-hub/SOT381_Python/blob/main/Theo%20d%C3%B5i%20gi%C3%A1%20tr%E1%BB%8B%20bi%E1%BA%BFn.py)
 
+[bai lam them so 4](https://github.com/anhnpa67khmt-hub/SOT381_Python/blob/main/chu_vi_dien_tich_hcn.py)
+
