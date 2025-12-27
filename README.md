@@ -8,3 +8,5 @@
 
 [bai lam them so 4](https://github.com/anhnpa67khmt-hub/SOT381_Python/blob/main/chu_vi_dien_tich_hcn.py)
 
+[bai lam them so 5](https://github.com/anhnpa67khmt-hub/SOT381_Python/commit/71881cddfd2d1ad61fa77ff8797a4cf8ab529bcf)
+
